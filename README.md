@@ -1,7 +1,7 @@
 # Hackathon_TripleTen_Dec_2023
 
 ## Note from jnorfolk
-I have imported my team's repository into a new repository on my account. Most of the work done here was done by others on my team. My main role was to create/tweak the final presentation and to present it.
+I have imported my team's repository into a new repository on my account. Most of the work done here was done by others on my team. My main role was to create/tweak the final presentation and to present it, beyond general assistance such as contributing ideas, brainstorming and planning during meetings, etc.
 
 ## Summary
 Analysis of complaints for the banking system
